@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="isort current file" description="指定されたファイルのimport順序をソートする" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\SCI01034\AppData\Local\Continuum\anaconda3\Scripts\isort.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/SCI01034/AppData/Local/Continuum/anaconda3/Scripts" />
+    </exec>
+  </tool>
+</toolSet>
