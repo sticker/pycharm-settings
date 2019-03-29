@@ -1,15 +1,5 @@
 <application>
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <removed_mapping ext="md" approved="true" type="Markdown" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="platform" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="unittestdb" type="PLAIN_TEXT" />
-      <mapping ext="icc" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
-    </extensionMap>
   </component>
 </application>
