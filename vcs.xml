@@ -14,6 +14,10 @@
           <option name="url" value="http://git-codecommit.ap-northeast-1.amazonaws.com" />
           <option name="userName" value="api_admin-at-373381186128" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://atlassian.nifty.com" />
+          <option name="userName" value="sci01034" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\SCI01034\PycharmProjects" />
